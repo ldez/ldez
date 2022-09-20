@@ -5,6 +5,10 @@
 ----oOO--( )--OOo----
 ```
 
+I love and trust in the open-source and its community, I spend my free time on many OSS projects.
+
+I hope sponsorships will help me continue working on open-source software and if you would like to support my future work, consider [joining me as a sponsor](https://github.com/sponsors/ldez)!
+
 <!--
 ### Hi there 👋
 
