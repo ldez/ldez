@@ -10,19 +10,19 @@ Go:
 - [tagliatelle](https://github.com/ldez/tagliatelle): A linter that handles struct tags.
 - [gomoddirectives](https://github.com/ldez/gomoddirectives): A linter that handle `replace`, `retract`, `exclude` directives into `go.mod`.
 - [go-git-cmd-wrapper](https://github.com/ldez/go-git-cmd-wrapper): A simple wrapper around git command in Go.
-- [mocktail](https://github.com/traefik/mocktail): Naive code generator that creates mock implementation using testify.mock.
+- :tropical_drink: [mocktail](https://github.com/traefik/mocktail): Naive code generator that creates mock implementation using testify.mock.
 - [paerser](https://github.com/traefik/paerser): Loads configuration from many sources.
 - [grignotin](https://github.com/ldez/grignotin): A collection of small helpers around Go proxy, Go meta information, etc.
 - [valkeyrie](https://github.com/kvtools/valkeyrie): Distributed Key/Value Store Abstraction Library written in Go.
 
 Traefik:
 - :genie: [Ttraefik](https://github.com/traefik/traefik): The Cloud Native Application Proxy.
-- [traefik-certs-dumper](https://github.com/ldez/traefik-certs-dumper): Dump ACME data from Traefik to certificates
-- [traefik-certs-cleaner](https://github.com/ldez/traefik-certs-cleaner): A simple helper to clean the Traefik `acme.json` file by removing and revoking certificates.
+- :memo: [traefik-certs-dumper](https://github.com/ldez/traefik-certs-dumper): Dump ACME data from Traefik to certificates
+- :broom: [traefik-certs-cleaner](https://github.com/ldez/traefik-certs-cleaner): A simple helper to clean the Traefik `acme.json` file by removing and revoking certificates.
 
 ACME, DNS, and Certificates:
 - :closed_lock_with_key: [lego](https://github.com/go-acme/lego): Let's Encrypt client and ACME library written in Go.
-- [The natural reserve of DNS clients in Go](https://github.com/nrdcg/)
+- :deciduous_tree: [The natural reserve of DNS clients in Go](https://github.com/nrdcg/)
 
 Maintainer Tools:
 - [prm](https://github.com/ldez/prm): Pull request manager for maintainers.
