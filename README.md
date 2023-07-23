@@ -32,4 +32,4 @@ Maintainer Tools:
 - [Messor Structor](https://github.com/traefik/structor): Manage multiple documentation versions with Mkdocs.
 - [Lasius Mixtus](https://github.com/traefik/mixtus): Publish documentation to a GitHub repository from another.
 
-I hope sponsorships will help me continue working on open-source software and if you would like to support my future work, consider joining me as a sponsor!
+I hope sponsorships will help me continue working on open-source software and if you would like to support my future work, consider [joining me as a sponsor](https://github.com/sponsors/ldez)!
