@@ -15,14 +15,14 @@ Go:
 - [grignotin](https://github.com/ldez/grignotin): A collection of small helpers around Go proxy, Go meta information, etc.
 - [valkeyrie](https://github.com/kvtools/valkeyrie): Distributed Key/Value Store Abstraction Library written in Go.
 
-ACME, DNS, and Certificates:
-- [lego](https://github.com/go-acme/lego): Let's Encrypt client and ACME library written in Go.
-- [The natural reserve of DNS clients in Go](https://github.com/nrdcg/)
-
 Traefik:
 - [Ttraefik](https://github.com/traefik/traefik): The Cloud Native Application Proxy.
 - [traefik-certs-dumper](https://github.com/ldez/traefik-certs-dumper): Dump ACME data from Traefik to certificates
 - [traefik-certs-cleaner](https://github.com/ldez/traefik-certs-cleaner): A simple helper to clean the Traefik `acme.json` file by removing and revoking certificates.
+
+ACME, DNS, and Certificates:
+- [lego](https://github.com/go-acme/lego): Let's Encrypt client and ACME library written in Go.
+- [The natural reserve of DNS clients in Go](https://github.com/nrdcg/)
 
 Maintainer Tools:
 - [gha-mjolnir](https://github.com/ldez/gha-mjolnir): GitHub Action to close issues related to the merge of a pull request.
