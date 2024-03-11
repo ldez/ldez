@@ -33,3 +33,6 @@ Maintainer Tools:
 - [gha-mjolnir](https://github.com/ldez/gha-mjolnir): GitHub Action to close issues related to the merge of a pull request.
 
 I hope sponsorships will help me continue working on open-source software and if you would like to support my future work, consider [joining me as a sponsor](https://github.com/sponsors/ldez) :heart::heart::heart:!
+
+
+<a href="https://u8views.com/github/ldez"><img width=400 src="https://u8views.com/api/v1/github/profiles/5674651/views/day-week-month-total-count.svg"></a>
