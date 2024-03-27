@@ -7,9 +7,9 @@ Sponsorship from [awesome individuals, startups, and companies **like you**](htt
 - 🐤 [Twitter: @ludnadez](https://twitter.com/ludnadez) ─ code, OSS sustainability, and more
 - 💙 Personal goal ─ spend more time working on OSS
 
-I'm a maintainer or the creator of several open-source projects you may be using.
-
 <details>
+
+I'm a maintainer or the creator of several open-source projects you may be using.
 
 Go:
 - :shield: [golangci-lint](https://github.com/golangci/golangci-lint): Fast linters Runner for Go.
