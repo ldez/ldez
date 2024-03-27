@@ -1,9 +1,15 @@
+I'm a **community-funded** open-source developer working on projects.
 
-I love and trust in the open-source and its community.
+Sponsorship from [awesome individuals, startups, and companies **like you**](https://www.graphile.org/sponsor/) help me spend more time on OSS.
 
-I hope sponsorships will help me continue working on open-source software and if you would like to support my future work, consider [joining me as a sponsor](https://github.com/sponsors/ldez) :heart::heart::heart:!
+- 🙏 **[Sponsor me](https://github.com/sponsors/ldez) ─ I need your support**
+- 🐘 <a rel="me" href="https://fosstodon.org/@ldez">@ldez@fosstodon.org</a>
+- 🐤 [Twitter: @ludnadez](https://twitter.com/ludnadez) ─ code, OSS sustainability, and more
+- 💙 Personal goal ─ spend more time working on OSS
 
 I'm a maintainer or the creator of several open-source projects you may be using.
+
+<details>
 
 Go:
 - :shield: [golangci-lint](https://github.com/golangci/golangci-lint): Fast linters Runner for Go.
@@ -34,5 +40,6 @@ Maintainer Tools:
 
 I hope sponsorships will help me continue working on open-source software and if you would like to support my future work, consider [joining me as a sponsor](https://github.com/sponsors/ldez) :heart::heart::heart:!
 
+</details>
 
 <a href="https://u8views.com/github/ldez"><img width=400 src="https://u8views.com/api/v1/github/profiles/5674651/views/day-week-month-total-count.svg"></a>
