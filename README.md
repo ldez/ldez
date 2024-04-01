@@ -4,7 +4,7 @@ Sponsorship from [awesome individuals, startups, and companies **like you**](htt
 
 - 🙏 **[Sponsor me](https://github.com/sponsors/ldez) ─ I need your support**
 - 🐘 <a rel="me" href="https://fosstodon.org/@ldez">@ldez@fosstodon.org</a>
-- 🐤 [Twitter: @ludnadez](https://twitter.com/ludnadez) ─ code, OSS sustainability, and more
+- 🐤 [Twitter: @ludnadez](https://twitter.com/ludnadez)
 - 💙 Personal goal ─ spend more time working on OSS
 
 <details>
