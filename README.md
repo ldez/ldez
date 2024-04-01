@@ -1,6 +1,6 @@
-I'm a **community-funded** open-source developer working on projects.
+I'm a **community-funded** open-source developer.
 
-Sponsorship from [awesome individuals, startups, and companies **like you**](https://github.com/sponsors/ldez) helps me spend more time on OSS.
+Sponsorship from [awesome individuals, startups, and companies **like you**](https://github.com/sponsors/ldez) help me spend more time on OSS.
 
 - 🙏 **[Sponsor me](https://github.com/sponsors/ldez) ─ I need your support**
 - 🐘 <a rel="me" href="https://fosstodon.org/@ldez">@ldez@fosstodon.org</a>
