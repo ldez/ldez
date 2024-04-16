@@ -13,6 +13,7 @@ Connect with me:
 [<img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ludovic-fernandez-185a7618/)
 
 <details>
+<br/>
 
 I'm a maintainer or the creator of several open-source projects you may be using.
 
