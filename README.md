@@ -8,6 +8,7 @@ Sponsorship from [awesome individuals, startups, and companies **like you**](htt
 Connect with me:
 
 [<img alt="Mastodon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg" />](https://fosstodon.org/@ldez)
+[<img alt="Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />](https://www.twitch.tv/ldez_oss)
 [<img alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ludnadez)
 [<img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ludovic-fernandez-185a7618/)
 
