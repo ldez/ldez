@@ -7,10 +7,10 @@ Sponsorship from [awesome individuals, startups, and companies **like you**](htt
 
 Connect with me:
 
-[<img alt="Mastodon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg" />](https://fosstodon.org/@ldez)
-[<img alt="Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />](https://www.twitch.tv/ldez_oss)
-[<img alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ludnadez)
-[<img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ludovic-fernandez-185a7618/)
+[<img alt="Mastodon" width="22px" src="https://github.com/ldez/ldez/assets/5674651/177603ae-a879-471d-a206-e956b5a7b0ef" />](https://fosstodon.org/@ldez)
+[<img alt="Twitch" width="22px" src="https://github.com/ldez/ldez/assets/5674651/d1acd43e-d223-4e81-b703-3c94c9f258bc" />](https://www.twitch.tv/ldez_oss)
+[<img alt="Twitter" width="22px" src="https://github.com/ldez/ldez/assets/5674651/7365f37c-7248-4965-978e-03b02e6720be" />](https://twitter.com/ludnadez)
+[<img alt="LinkedIn" width="22px" src="https://github.com/ldez/ldez/assets/5674651/e1164890-029d-422c-9c37-21081e17f88b" />](https://www.linkedin.com/in/ludovic-fernandez-185a7618/)
 
 <details>
 <br/>
