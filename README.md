@@ -1,8 +1,8 @@
 I'm a **community-funded** open-source developer.
 
-Sponsorship from [awesome individuals, startups, and companies **like you**](https://github.com/sponsors/ldez) help me spend more time on OSS.
+Sponsorship from [awesome individuals, startups, and companies **like you**](https://donate.ldez.dev) help me spend more time on OSS.
 
-- 🙏 **[Sponsor me](https://github.com/sponsors/ldez) - I need your support**
+- 🙏 **[Sponsor me](https://donate.ldez.dev) - I need your support**
 - 💙 Personal goal - Creating new OSS useful to everyone.
 
 Connect with me:
